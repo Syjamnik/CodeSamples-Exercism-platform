@@ -42,7 +42,6 @@ public static class RotationalCipher
             }
             else
                 strBuilder.Append(selectedCharacter);
-            
         }
 
 
